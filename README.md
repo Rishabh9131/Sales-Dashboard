@@ -113,8 +113,8 @@ The objective of this dashboard is to provide a centralized reporting solution t
 ```text
 Sales-Data-Dashboard/
 │
-├── Chart.pbix
-├── Sales_Data.xlsx
+├── sales assisment.pbix
+├── SalesData.xlsx
 ├── README.md
 └── images/
     └── sales dashboard.png
